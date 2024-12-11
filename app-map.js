@@ -40,9 +40,9 @@ const workItems = new Map();
 
 // Add some initial items to the Map
 // Seeding the map with initial values to simulate a pre-existing list.
-items.set('1', 'Buy Food');
-items.set('2', 'Cook Food');
-items.set('3', 'Eat Food');
+items.set('1', 'Tarea 1');
+items.set('2', 'Tarea 2');
+items.set('3', 'Tarea 3');
 
 // Define a route handler for the root route (homepage).
 // This home route handler displays the current to -do list items by date.
